@@ -1,7 +1,7 @@
 # Videogame-Sales-Analysis
 
 # Scenario
-I am working as a data analyst for Xbox, they asked if I could analyze the Japanese market and 
+I am working as a data analyst for Xbox, they asked if I could analyze the Japanese market to increase their market share in Japan.
 
 # Key insights
 
