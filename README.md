@@ -15,7 +15,7 @@ I am working as a data analyst for Xbox, they asked if I could analyze the Japan
   
 # About this project
 
-Conducted analysis in postgreSQL and PowerBI to surface insights on videogame dataset from maven containing 64,000 rows. I worked in postgreSQL to build a mini-database, clean and prepare the dataset for analysis, and pre-analyze the data. I built a trend and Japanese performance report in PowerBI to visualize the key findings. 
+Conducted analysis in postgreSQL and PowerBI to surface insights on videogame dataset from Maven dataset containing 64,000 rows. I worked in postgreSQL to build a mini-database, clean and prepare the dataset for analysis, and pre-analyze the data. I built a trend and Japanese performance report in PowerBI to visualize the key findings. 
 
 Insight 1 can be easily obtained by reviewing the stacked area chart. This chart is created to show the total sales over time. By including the x lines, the impact of the generation becomes apparent. Xbox was not an import platform before the 7th gaming generation. Furthermore, the peak and decline can easily be obtained from this graph.
 
