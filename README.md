@@ -1,29 +1,21 @@
-# Videogame-Sales-Analysis
+# Videogame Sales Analysis
 
 # Scenario
-I am working as a data analyst for Xbox, they asked if I could analyze the Japanese market to increase their market share in Japan.
+As a data analyst for Xbox, I was tasked with analyzing the Japanese market to identify strategies to increase their market share in Japan.
 
-# Key insights
+# Key Insights
+Video game sales peaked in 2008 during the 7th game generation (2005–2017) and have been declining since, with a brief rise following the launch of the 8th generation.
+The top 5 gaming genres in Japan differ significantly from those globally.
+Xbox focuses on popular genres in other regions, while Nintendo and PlayStation adapt to Japanese preferences.
+Recommendations
+Conduct market research into Japanese gaming culture and tailor your market entry strategy to align with these preferences.
+Investigate the factors contributing to the success of the 7th generation for further insights.
+About This Project
+I conducted the analysis using PostgreSQL and Power BI, working with a dataset from Maven containing 64,000 rows. In PostgreSQL, I built a mini-database, cleaned and prepared the data, and performed initial analysis. I then used Power BI to create a trend and performance report focusing on the Japanese market.
 
-- Video-game sales peaked in 2008 during the 7th game generation (2005–2017), and have been decreasing ever since, with a short-lived exception after the launch of the 8th generation.
-- Japanese top 5 gaming genre differs from the rest of the world.
-- Xbox focus in Japan is on popular genres in the rest of the world, whereas Ninentdo and PlayStation adapt to Japenese preferences.
-
-# Recommendations
-- Conduct market research in the Japanese gaming culture, adjust your market entry strategy towards a Japanese specialized strategy.
-- Conduct further research on the driving factors of the succes of the 7th generation.
-  
-# About this project
-
-Conducted analysis in postgreSQL and PowerBI to surface insights on videogame dataset from Maven dataset containing 64,000 rows. I worked in postgreSQL to build a mini-database, clean and prepare the dataset for analysis, and pre-analyze the data. I built a trend and Japanese performance report in PowerBI to visualize the key findings. 
-
-Insight 1 can be easily obtained by reviewing the stacked area chart. This chart is created to show the total sales over time. By including the x lines, the impact of the generation becomes apparent. Xbox was not an import platform before the 7th gaming generation. Furthermore, the peak and decline can easily be obtained from this graph.
-
-Insight 2 is found by initial analysis in PostgreSQL and shown in the report by making use of a treemap. This visual allows to easily compare the overall top 5 sold genres in Japan to the top 5 genres sold per platform (found in the donut charts).
-
-Insight 3 is found by comparing the donut charts. The upper donut chart displays the shares of the top 5 genres sold in Japan by the chosen platform. The lower donut chart displays the shares of the top 5 genres sold in the world by the chosen platform. By comparing the two donut charts one can find little change in genres for Xbox; for both charts Shooter is the largest followed by action.
-
-By reviewing the donut charts for Playstation and Nintendo one can clearly see these platforms focus on differnt game genre specified to the Japanese market. For Nintendo and PlayStation the donut charts differ much more than they do for Xbox.
+<b>Insight 1<b>: This is illustrated by the stacked area chart showing total sales over time. The chart highlights the peak during the 7th generation and the subsequent decline, with the impact of different generations clearly visible.
+Insight 2: Initial analysis in PostgreSQL and visualized using a treemap in Power BI. The treemap compares the top 5 genres sold in Japan to those sold globally, revealing differences in genre popularity.
+Insight 3: Found by comparing donut charts. The top chart displays the share of top 5 genres sold in Japan, while the bottom chart shows global sales. The comparison reveals that Xbox maintains a consistent genre focus, with Shooter and Action being prominent. In contrast, Nintendo and PlayStation's charts show a greater variation, reflecting their adaptation to Japanese market preferences.
 
 
 
