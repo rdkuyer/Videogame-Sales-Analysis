@@ -4,9 +4,9 @@
 As a data analyst for Xbox, I was tasked with analyzing the Japanese market to identify strategies to increase their market share in Japan.
 
 # Key Insights
--  <b>Insight 1 </b> Video game sales peaked in 2008 during the 7th game generation (2005–2017) and have been declining since, with a brief rise following the launch of the 8th generation.
-- <b>Insight 2</b> The top 5 gaming genres in Japan differ significantly from those globally.
-- <b>Insight 3</b> Xbox focuses on popular genres in other regions, while Nintendo and PlayStation adapt to Japanese preferences.
+-  <b>Insight 1: </b> Video game sales peaked in 2008 during the 7th game generation (2005–2017) and have been declining since, with a brief rise following the launch of the 8th generation.
+- <b>Insight 2: </b> The top 5 gaming genres in Japan differ significantly from those globally.
+- <b>Insight 3: </b> Xbox focuses on popular genres in other regions, while Nintendo and PlayStation adapt to Japanese preferences.
 
 # Recommendations
 - Conduct market research into Japanese gaming culture and tailor your market entry strategy to align with these preferences.
